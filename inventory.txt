@@ -1,0 +1,25 @@
+country,code,product,cost,quantity
+South Africa,   SKU44386,   Air Max 90,   120.00, 20
+China,   SKU90000,   Jordan 1,   320.00, 50
+Vietnam,   SKU63221,   Blazer,   170.00, 19
+United States,   SKU29077,   Cortez,   97.00, 60
+Russia,   SKU89999,   Air Force 1,   200.00, 43
+Australia,   SKU57443,   Waffle Racer,   250.00, 4
+Canada,   SKU68677,   Air Max 97,   120.00, 13
+Egypt,   SKU19888,   Dunk SB,   99.99, 26
+Britain,   SKU76000,   Kobe 4,   85.00, 32
+France,   SKU84500,   Pegasus,   116.00, 28
+Zimbabwe,   SKU20207,   Air Presto,   129.00, 7
+Morocco,   SKU77744,   Challenge Court,   145.00, 11
+Israel,   SKU29888,   Air Zoom Generation,   123.00, 6
+Uganda,   SKU33000,   Flyknit Racer,   49.00, 9
+Pakistan,   SKU77999,   Air Yeezy 2,   200.00, 67
+Brazil,   SKU44600,   Air Jordan 11,   110.00, 24
+Columbia,   SKU87500,   Air Huarache,   112.00, 8
+India,   SKU38773,   Air Max 1,   125.00, 29
+Vietnam,   SKU95000,   Air Mag,   2000, 12
+Israel,   SKU79084,   Air Foamposite,   56.00, 4
+China,   SKU93222,   Air Stab,   123.00, 55
+South Korea,   SKU66734,   Hyperdunk,   180.00, 7
+Australia,   SKU71827,   Zoom Hyperfuse,   85.00, 15
+France,   SKU20394,   Eric Koston 1,   75.00, 17
